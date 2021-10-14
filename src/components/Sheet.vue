@@ -1,4 +1,5 @@
 <template>
+<!-- Aufgabe 1 und Pro Aufgabe -->
   <div class="slot-style" :style="style()">
     <slot></slot>
   </div>
